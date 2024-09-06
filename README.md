@@ -8,7 +8,6 @@ This project demonstrates how to create a full-screen video background for a lan
 ### Key Features
 - Full-screen video background that adapts to various screen sizes.
 - Text overlay over the video.
-- Customizable image placeholders located in the `images` folder.
 
 ## Screenshots
 
