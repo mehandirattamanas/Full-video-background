@@ -14,10 +14,10 @@ This project demonstrates how to create a full-screen video background for a lan
 
 Here are examples of the images included:
 
-![Image 1](images/SS_One.png)
+![Image 1](images/SS ONE.png)
 *Image 1: Used in the landing page as a placeholder*
 
-![Image 2](images/SS_TWo.png)
+![Image 2](images/SS TWO.png)
 *Image 2: Another example for customizing the landing page*
 
 
